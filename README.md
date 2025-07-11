@@ -2,7 +2,12 @@
 ## Project Objective
 To analyze customer churn behavior for a telecom company using demographic, service usage, contract, and payment information. This helps in identifying churn-prone customer segments and developing strategies to improve customer retention.
 
+---
+
 ## Dataset used
+- <a href="https://github.com/vinayakgupta781/Customer-Churn-Analysis/blob/main/Customer%20Churn.csv">Dataset</a>
+
+---
 
 ## Key Analysis & Visualizations
 - Churn distribution by Senior Citizen, Contract Type, and Payment Method
@@ -10,14 +15,20 @@ To analyze customer churn behavior for a telecom company using demographic, serv
 - Stacked bar charts showing churn in percentage
 - Multiple subplots comparing churn across key service-related columns
 
+---
+
 ## Key Insights
 - Month-to-month contracts and electronic check users show the highest churn
 - Add-on services like Online Security and Tech Support reduce churn risk
 - Senior citizens have a higher churn percentage despite being a smaller portion
 
+---
+
 ## Tools Used
 - Python (Pandas, Matplotlib, Seaborn)
 - Jupyter Notebook for data exploration and visualization
+
+---
 
 ## Outcome
 - This analysis offers actionable insights that telecom businesses can use to:
